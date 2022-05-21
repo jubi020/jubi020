@@ -51,3 +51,5 @@ You can click the Preview link to take a look at your changes.
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jubi020&theme=dark&background=000000)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jubi020&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jubi020&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
