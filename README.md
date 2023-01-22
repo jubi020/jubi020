@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
   
 ---
 ### :woman_technologist: About Me :
-- 👋 Hi, I’m Jubi Katiyar, a pre-final year undergrad at Harcourt Butler Technical University, Kanpur.
+- 👋 Hi, I’m Jubi Katiyar, a final year undergrad at Harcourt Butler Technical University, Kanpur.
 - 👀 I’m interested in Full Stack(MERN Stack) Web Development.
 - 🌱 I’m currently learning Backend Development.
 - :mailbox:How to reach me: jubikumari020@gmail.com
